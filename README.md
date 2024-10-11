@@ -9,3 +9,7 @@ Currently with the huge unemployment nation wide, People have to apply quick as 
 Though i do have some understanding of how job markets works currently atleast in the field of Software Engineer i would love to hear, how this application could be improved to different domains. Please feel free to drop a message on ISSUES.
 
 This project is solely intended to help the community and would not turn into business. 
+
+# Initial Phase of the project 
+A screeshot of my work.
+<img width="884" alt="image" src="https://github.com/user-attachments/assets/55b31b3d-e1e2-4aec-9bb4-00c7cab738bd">
