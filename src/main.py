@@ -1,5 +1,10 @@
 import os
-
+from driver import Driver
+import time
 def startlambda(event, context):
-    print('Event: starting lambda function')
-    print('Event: ending lambda function')
+    start_time = time.time()
+    print(Driver.get_today_jobs())
+    end_time = time.time()
+    print(f"Runtime: {end_time - start_time} seconds")
+
+startlambda(None,None)
